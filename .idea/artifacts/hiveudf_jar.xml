@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="hiveudf:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/hiveudf_jar</output-path>
+    <root id="archive" name="hiveudf.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/src/main/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="module-output" name="hiveudf" />
+      <element id="extracted-dir" path="D:/maven/org/apache/hive/hive-ant/1.1.0-cdh5.8.0/hive-ant-1.1.0-cdh5.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/hbase/hbase-annotations/1.2.0-cdh5.8.0/hbase-annotations-1.2.0-cdh5.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/htrace/htrace-core/3.2.0-incubating/htrace-core-3.2.0-incubating.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/hadoop/hadoop-auth/2.6.0-cdh5.8.0/hadoop-auth-2.6.0-cdh5.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/hive/hive-shims/1.1.0-cdh5.8.0/hive-shims-1.1.0-cdh5.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/hive/hive-serde/1.1.0-cdh5.8.0/hive-serde-1.1.0-cdh5.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/hadoop/hadoop-common/2.6.0-cdh5.8.0/hadoop-common-2.6.0-cdh5.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/zookeeper/zookeeper/3.4.5-cdh5.8.0/zookeeper-3.4.5-cdh5.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/htrace/htrace-core4/4.0.1-incubating/htrace-core4-4.0.1-incubating.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/hbase/hbase-common/1.2.0-cdh5.8.0/hbase-common-1.2.0-cdh5.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/hive/hive-metastore/1.1.0-cdh5.8.0/hive-metastore-1.1.0-cdh5.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/hive/shims/hive-shims-0.23/1.1.0-cdh5.8.0/hive-shims-0.23-1.1.0-cdh5.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/hive/hive-exec/1.1.0-cdh5.8.0/hive-exec-1.1.0-cdh5.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/hive/shims/hive-shims-scheduler/1.1.0-cdh5.8.0/hive-shims-scheduler-1.1.0-cdh5.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/hbase/hbase-protocol/1.2.0-cdh5.8.0/hbase-protocol-1.2.0-cdh5.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/hive/shims/hive-shims-common/1.1.0-cdh5.8.0/hive-shims-common-1.1.0-cdh5.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/hive/hive-common/1.1.0-cdh5.8.0/hive-common-1.1.0-cdh5.8.0.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="D:/maven/org/apache/hadoop/hadoop-annotations/2.6.0-cdh5.8.0/hadoop-annotations-2.6.0-cdh5.8.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
